@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "453211246890",
+    "project_id": "stand-by-you-512a1",
+    "storage_bucket": "stand-by-you-512a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453211246890:android:c59652919e733f018dce53",
+        "android_client_info": {
+          "package_name": "com.example.standbyyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453211246890-ng124luo37sih0pispb0rtd0gmjbqgrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_QzWG7_iDMhokkWoQkLlcMpWnsgTMrFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453211246890-ng124luo37sih0pispb0rtd0gmjbqgrc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
